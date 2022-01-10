@@ -1,30 +1,42 @@
 ---
-title: "Ritgerð"
-author: "Example"
-date: "22 July 2016"
+title: "Josquin og Inviolata"
+author: "Matthías Kormáksson"
+date: "18. janúar 2022"
 output: html_document
+bibliography: references.bib
+csl: chicago-author-date.csl
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## Inngangur
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Hér kemur inngangur þar sem ég útlista hvað ég ætla að skrifa um, @arni1.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3hGgBC7aNso" frameborder="0" allowfullscreen></iframe>
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Æviágrip Josquins des Prez
 
-```{r cars}
-summary(cars)
-```
+Hér tala ég um stutt æviágrip og vitna í bók @arni. Minnist á áletrunina í sixtínsku kapellunni.
 
-## Including Plots
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xGkb5KFwx1I" frameborder="0" allowfullscreen></iframe>
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+## Inviolata
+
+### Íslensk þýðinga texta
+
+Hér sýni ég textana hlið við hlið, @arni. 
+
+
+### Um tónlistina
+
+Ræði í meginatriðum um ritgerðina hans @owen.
+
+## Lokaorð
+
+Hér koma lokaorð
+
+## Heimildaskrá
