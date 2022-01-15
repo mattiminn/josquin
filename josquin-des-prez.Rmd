@@ -18,16 +18,16 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Æviágrip og tónlist Josquins des Prez
 
-Josquin des Prez (um 1450-1521). Hér tala ég um stutt æviágrip og vitna í bók @arni1. Minnist á áletrunina í sixtínsku kapellunni.
+Josquin Des Prez (um 1450-1521). Hér tala ég um stutt æviágrip og vitna í bók @arni1. Minnist á áletrunina í sixtínsku kapellunni.
 
 
 ## Inviolata, integra et casta es Maria
 
-Óflekkuð, heil og skírlíf ert þú, María. Svo hljóðar íslensk þýðing á titli latneska Maríusekvensins: Inviolata, integra et casta es Maria. Bæði @arni1 (hér eftir ÁHIa) og @arni2 (hér eftir ÁHIb) fjalla um þennan sekvens og tilgreinir ÁHIa að hann eigi upphaf sitt í frönskum messusöng á 11. öld. Sekvens þessi mun hafa náð töluverðum vinsældum á endurreisnartímanum og sömdu fjölmörg tónskáld um hann tónverk (ÁHIa). ÁHIb gengur meira að segja svo langt að segja að Inviolata hafi verið eitt dáðasta verk Josquins alla 16. öldina.   @arni2. @handrit.
+Óflekkuð, heil og skírlíf ert þú, María. Svo hljóðar íslensk þýðing á titli latneska Maríusekvensins: Inviolata, integra et casta es Maria. Bæði @arni1 (hér eftir ÁHIa) og @arni2 (hér eftir ÁHIb) fjalla um þennan sekvens og tilgreinir ÁHIa að hann eigi upphaf sitt í frönskum messusöng á 11. öld. Sekvens þessi mun hafa náð töluverðum vinsældum á endurreisnartímanum og sömdu fjölmörg tónskáld um hann tónverk (ÁHIa). ÁHIb gengur meira að segja svo langt að segja að Inviolata hafi verið eitt dáðasta verk Josquins alla 16. öldina.   @arni2. .
 
 ### Textinn
 
-ÁHIb gerir texta *Inviolata* ítarleg skil. Það vill nefnilega svo til að á Konunglega bókasafninu í Stokkhólmi má finna tvö handritsbrot (@handrit) sem innihalda íslenska þýðingu textans. Handrit þessi eru talin vera frá því um árið 1550 (ÁHIb) sem er einmitt árið sem Jón Arason síðasti kaþólski biskupinn á Íslandi var hálshöggvinn. Það væri svo sem ekki í frásögur færandi nema fyrir það að íslenski textinn sem um ræðir ber þess einmitt skýr merki að vera lúthersk útfærsla á kaþólskum lofsöng til Maríu. Hér fyrir neðan sjáum við þrjár útgáfur textans. Sú til vinstri er latneska frumgerðin og sú í miðjunni er umrædd íslensk þýðing en báðar eru þær að finna prentaðar í ÁHIb. Útgáfan lengst til hægri er svo loks tilraun til leiðréttrar þýðingar og er eftir höfund þessarar ritgerðar. Styðst hún að miklu leyti við upprunalegu þýðinguna sem og við athugasemdir í ÁHIb. Lokaákallið til Maríu sem vantar í upprunalegu þýðinguna er tekin beint upp úr ÁHIa.
+Ã Konunglega bókasafninu í Stokkhólmi má finna tvö handritsbrot sem innihalda íslenska þýðingu textans við *Inviolata* og eru þau talin vera frá því um árið 1550 (ÁHIb). Það er einmitt árið sem Jón Arason síðasti kaþólski biskupinn á Íslandi var hálshöggvinn sem væri svo sem ekki í frásögur færandi nema fyrir þær sakir að íslenski textinn sem um ræðir ber þess skýr merki að vera lúthersk útfærsla á kaþólskum lofsöng til Maríu. Hér fyrir neðan sjáum við þrjár útgáfur textans. Sú til vinstri er latneska frumgerðin og sú í miðjunni er umrædd íslensk þýðing en báðar er þær að finna í ÁHIb. Textinn lengst til hægri er svo loks tilraun til leiðréttrar þýðingar og er eftir höfund þessarar ritgerðar. Styðst hún að mörgu leyti við upprunalegu þýðinguna sem og við athugasemdir í ÁHIb. Lokaákallið til Maríu sem vantar í upprunalegu þýðinguna er tekið beint upp úr ÁHIa.
 
 :::: {style="display: flex;"}
 
