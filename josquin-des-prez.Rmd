@@ -2,7 +2,8 @@
 title: "Josquin og Inviolata"
 author: "Matthías Kormáksson"
 date: "18. janúar 2022"
-output: html_document
+output: 
+  html_document
 bibliography: references.bib
 csl: chicago-author-date.csl
 ---
@@ -17,21 +18,85 @@ Hér kemur inngangur þar sem ég útlista hvað ég ætla að skrifa um, @arni1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3hGgBC7aNso" frameborder="0" allowfullscreen></iframe>
 
-## Æviágrip Josquins des Prez
+## Æviágrip og tónlist Josquins des Prez
 
-Hér tala ég um stutt æviágrip og vitna í bók @arni. Minnist á áletrunina í sixtínsku kapellunni.
+Josquin des Prez (um 1450-1521) Hér tala ég um stutt æviágrip og vitna í bók @arni1. Minnist á áletrunina í sixtínsku kapellunni.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xGkb5KFwx1I" frameborder="0" allowfullscreen></iframe>
 
 
-## Inviolata
+## Inviolata, integra et casta es Maria
 
-### Íslensk þýðinga texta
+Óflekkuð, heil og skírlíf ert þú, María. Svo hljóðar íslensk þýðing á titli latneska Maríusekvensins: Inviolata, integra et casta es Maria. Bæði @arni1 (hér eftir ÁHIa) og @arni2 (hér eftir ÁHIb) fjalla um þennan sekvens og tilgreinir ÁHIa að hann eigi upphaf sitt í frönskum messusöng á 11. öld. Sekvens þessi mun hafa náð töluverðum vinsældum á endurreisnartímanum og sömdu fjölmörg tónskáld um hann tónverk (ÁHIa). ÁHIb gengur meira að segja svo langt að segja að Inviolata hafi verið eitt dáðasta verk Josquins alla 16. öldina.   @arni2. @handrit.
 
-Hér sýni ég textana hlið við hlið, @arni. 
+### Textinn
 
+ÁHIb gerir texta *Inviolata* ítarleg skil. Það vill nefnilega svo til að á Konunglega bókasafninu í Stokkhólmi má finna tvö handritsbrot (@handrit) sem innihalda íslenska þýðingu textans. Handrit þessi eru talin vera frá því um árið 1550 (ÁHIb) sem er einmitt árið sem Jón Arason síðasti kaþólski biskupinn á Íslandi var hálshöggvinn. Það væri svo sem ekki í frásögur færandi nema fyrir það að íslenski textinn sem um ræðir ber þess einmitt skýr merki að vera lúthersk útfærsla á kaþólskum lofsöng til Maríu. Hér fyrir neðan sjáum við þrjár útgáfur textans. Sú til vinstri er latneska frumgerðin og sú í miðjunni er umrædd íslensk þýðing en báðar eru þær að finna prentaðar í ÁHIb. Útgáfan lengst til hægri er svo loks tilraun til leiðréttrar þýðingar og er eftir höfund þessarar ritgerðar. Styðst hún að miklu leyti við upprunalegu þýðinguna sem og við athugasemdir í ÁHIb. Lokaákallið til Maríu sem vantar í upprunalegu þýðinguna er tekin beint upp úr ÁHIa.
 
-### Um tónlistina
+:::: {style="display: flex;"}
+
+::: {}
+Inviolata, integra et casta es Maria,  
+<span style="color: white;">.</span>  
+quae es effecta fulgida caeli porta.  
+O Mater alma Christi carissima,  
+suscipe pia laudum praeconia.  
+Te nunc flagitant devota corda et ora,  
+nostra ut pura pectora sint et corpora.  
+Tua per precata dulcisona,  
+nobis concedas veniam per saecula.  
+O benigna!  
+O Regina!  
+O Maria!  
+quae sola inviolata permansisti.  
+:::
+
+::: {}
+$~$ $~$ $~$ $~$ $~$ $~$ $~$ $~$ $~$
+:::
+
+::: {}
+Ad obrugnum oskiertum og skiærum  
+meydom <span style="color: red;">fæddi sinn son maria</span>.  
+Hvor ad ert ordin himna <span style="color: red;">kongsins herberge</span>.  
+Og moder Jesu kristi kiærasta.  
+Medtaki <span style="color: red;">hann</span> allra truadra bæner.  
+Hvoriar vier fram flytium af hiarta og munni.  
+Ad vor hiortu og lykamer [hreiner] verde.  
+Gief þu vier þig um bidium  
+Veit þu oss nad um allar alldir allda.  
+<span style="color: red;">O þu gode  
+O þu millde  
+O Jesu kærste  
+Hvor ad fyrir oss fædast [villder]</span>.  
+:::
+
+::: {}
+$~$ $~$ $~$ $~$ $~$ $~$ $~$ $~$ $~$
+:::
+
+::: {}
+Óflekkuð, heil og skírlíf ert þú, María,  
+<span style="color: white;">.</span>  
+sem ert orðin skínandi himnahlið.  
+Ó, kæra nærandi móðir Krists,  
+Meðtakið þér allra trúaðra bænir.  
+Þig vér biðjum með hjarta og munni,  
+að vor hjörtu og líkamar megi hrein verða.  
+Með þínum bænum ómblíðum,  
+veit þú oss náð um aldir alda.  
+Ó, blessuð!   
+Ó, drottning!  
+Ó, María!  
+sem ein ert óflekkuð enn.  
+:::
+
+::::
+
+Með rauðu er merkt við markverðugustu lúthersku útfærslurnar í íslensku þýðingunni frá um 1550. ÁHIb dregur þetta ágætlega saman þegar hann segir að ávörp til Maríu áttu ,,lítinn hljómgrunn í guðfræði Lúthers og eins og oft vill verða í Maríukveðskap
+eftir siðaskipti er hluta textans hér snúið upp á Krist´´. í réttari þýðingu textans lengst til hægri afhjúpast aftur á móti upprunalegur ásetningur textahöfundar, þ.e.a.s. ljúfur lofsöngur til Maríu. Vert er að leggja áherslu á íslenskun orðanna: ,,Tua per precata dulcisona´´ en í upprunalegu þýðingunni er gengið fram hjá þeirri staðreynd að latenska orðið dulcisona merkir bókstaflega ljúft hljóð eða ómblítt. Við komum aftur að þessum mikilvæga punkti þegar við ræðum mótettuna sem Josquin samdi við textann og þá koma áhugaverðir hlutir í ljós.
+
+### Tónlistin
 
 Ræði í meginatriðum um ritgerðina hans @owen.
 
