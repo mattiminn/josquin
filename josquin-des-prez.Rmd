@@ -14,15 +14,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Inngangur
 
-Hér kemur inngangur þar sem ég útlista hvað ég ætla að skrifa um, @arni1.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hGgBC7aNso" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oJFRbU_YsBo" frameborder="0" allowfullscreen></iframe>
 
 ## Æviágrip og tónlist Josquins des Prez
 
-Josquin des Prez (um 1450-1521) Hér tala ég um stutt æviágrip og vitna í bók @arni1. Minnist á áletrunina í sixtínsku kapellunni.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xGkb5KFwx1I" frameborder="0" allowfullscreen></iframe>
+Josquin des Prez (um 1450-1521). Hér tala ég um stutt æviágrip og vitna í bók @arni1. Minnist á áletrunina í sixtínsku kapellunni.
 
 
 ## Inviolata, integra et casta es Maria
@@ -99,6 +95,9 @@ eftir siðaskipti er hluta textans hér snúið upp á Krist´´. í réttari þ
 ### Tónlistin
 
 Ræði í meginatriðum um ritgerðina hans @owen.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hGgBC7aNso" frameborder="0" allowfullscreen></iframe>
+
 
 ## Lokaorð
 
