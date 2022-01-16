@@ -27,7 +27,7 @@ Josquin Des Prez (um 1450-1521). Hér tala ég um stutt æviágrip og vitna í b
 
 ### Textinn
 
-Ã Konunglega bókasafninu í Stokkhólmi má finna tvö handritsbrot sem innihalda íslenska þýðingu textans við *Inviolata* og eru þau talin vera frá því um árið 1550 (ÁHIb). Það er einmitt árið sem Jón Arason síðasti kaþólski biskupinn á Íslandi var hálshöggvinn sem væri svo sem ekki í frásögur færandi nema fyrir þær sakir að íslenski textinn sem um ræðir ber þess skýr merki að vera lúthersk útfærsla á kaþólskum lofsöng til Maríu. Hér fyrir neðan sjáum við þrjár útgáfur textans. Sú til vinstri er latneska frumgerðin og sú í miðjunni er umrædd íslensk þýðing en báðar er þær að finna í ÁHIb. Textinn lengst til hægri er svo loks tilraun til leiðréttrar þýðingar og er eftir höfund þessarar ritgerðar. Styðst hún að mörgu leyti við upprunalegu þýðinguna sem og við athugasemdir í ÁHIb. Lokaákallið til Maríu sem vantar í upprunalegu þýðinguna er tekið beint upp úr ÁHIa.
+Á Konunglega bókasafninu í Stokkhólmi má finna tvö handritsbrot sem innihalda íslenska þýðingu textans við *Inviolata* og eru þau talin vera frá því um árið 1550 (ÁHIb). Það er einmitt árið sem Jón Arason síðasti kaþólski biskupinn á Íslandi var hálshöggvinn sem væri svo sem ekki í frásögur færandi nema fyrir þær sakir að íslenski textinn sem um ræðir ber þess skýr merki að vera lúthersk útfærsla á kaþólskum lofsöng til Maríu. Hér fyrir neðan sjáum við þrjár útgáfur textans. Sú til vinstri er latneska frumgerðin og sú í miðjunni er umrædd íslensk þýðing en báðar er þær að finna í ÁHIb. Textinn lengst til hægri er svo loks tilraun til leiðréttrar þýðingar og er eftir höfund þessarar ritgerðar. Styðst hún að mörgu leyti við upprunalegu þýðinguna sem og við athugasemdir í ÁHIb. Þýðing lokaákallsins til Maríu sem vantar í upprunalegu þýðinguna er tekið beint upp úr ÁHIa.
 
 :::: {style="display: flex;"}
 
@@ -89,12 +89,25 @@ sem ein ert óflekkuð enn.
 
 ::::
 
-Með rauðu er merkt við markverðugustu lúthersku útfærslurnar í íslensku þýðingunni frá um 1550. ÁHIb dregur þetta ágætlega saman þegar hann segir að ávörp til Maríu áttu ,,lítinn hljómgrunn í guðfræði Lúthers og eins og oft vill verða í Maríukveðskap
-eftir siðaskipti er hluta textans hér snúið upp á Krist´´. í réttari þýðingu textans lengst til hægri afhjúpast aftur á móti upprunalegur ásetningur textahöfundar, þ.e.a.s. ljúfur lofsöngur til Maríu. Vert er að leggja áherslu á íslenskun orðanna: ,,Tua per precata dulcisona´´ en í upprunalegu þýðingunni er gengið fram hjá þeirri staðreynd að latenska orðið dulcisona merkir bókstaflega ljúft hljóð eða ómblítt. Við komum aftur að þessum mikilvæga punkti þegar við ræðum mótettuna sem Josquin samdi við textann og þá koma áhugaverðir hlutir í ljós.
+Með rauðu er merkt við markverðugustu lúthersku útfærslurnar í íslensku þýðingunni frá um 1550. ÁHIb dregur þetta ágætlega saman þegar hann segir að ávörp til Maríu áttu ,,lítinn hljómgrunn í guðfræði Lúthers og eins og oft vill verða í Maríukveðskap eftir siðaskipti er hluta textans hér snúið upp á Krist´´. Í réttari þýðingu textans lengst til hægri afhjúpast aftur á móti upprunalegur ásetningur textahöfundar, þ.e.a.s. ljúfur lofsöngur til Maríu. Að frátöldum þessum augljósu breytingum á textanum er upprunalega þýðingin að mörgu leyti nokkuð góð þó hún sé ekki alltaf bókstaflega rétt. Vert er að leggja áherslu á íslenskun orðanna: ,,Tua per precata dulcisona´´ en í upprunalegu þýðingunni er gengið fram hjá þeirri staðreynd að latenska orðið dulcisona merkir bókstaflega að hljóma ljúft eða vera ómblíð. Í mótettu Josquins við textann er mikilvægt að halda til haga þessum blæbrigðamun á þýðingunni og munum við koma aftur að þessum punkti hér á eftir.
 
 ### Tónlistin
 
-Ræði í meginatriðum um ritgerðina hans @owen.
+Mótetta Josquins við *Inviolata* er fimm radda verk byggt á gregorskum sekvens. Tvær raddanna syngja sléttsönginn í keðju á meðan hinar þrjár syngja frjálsan kontrapunkt (ÁHIsaga). Mótettan er í þremur hlutum. Í þeim fyrsta líða 3 taktar á milli endurtekningar sléttusöngsins, á meðan í öðrum hlutanum líða tveir taktar þar á milli og loks aðeins einn taktur í þriðja og síðasta hlutanum. Hér var því augljóslega um þaulhugsað tæknilegt afrek í tónsmíðum að ræða eða eins og ÁHIsaga orðar það: ,,Keðjusöngurinn er eins konar eltingaleikur í tónum og forskot tenórsins minnkar eftir því sem líður á verkið.´´  @owen gerir *Inviolata* að rannsóknarefni sínu og gefur einstaklega skemmtilega greiningu á uppbyggingu tónsmíðarinnar. Hér verður fjallað lauslega um aðalinntak greiningarinnar og tóndæmi skoðað því til stuðnings.  
+
+Á tímum Josquins var nótnasetning tónlistar ekki jafn nákvæm og afgerandi eins og nú til dags. Formerki og úrfellingarmerki voru ekki endilega samviskusamlega skrifuð niður og söngvarar gátu ekki lesið allar raddir lagsins í einu til að átta sig á innra samhengi þeirra á milli. Söngvarar þess tíma urðu því að túlka forskrift sinnar raddar eftir bestu getu en á sama tíma að fylgja ákveðnum grunnreglum um eðlilega framvindu laglínunnar. Til að mynda var mikilvægt að forðast ákveðin tónbil eins og hækkaða ferund (tónskratta) eftir bestu getu. Í ljósi ófullkomnar nótnasetningar þess tíma var aftur á móti óhjákvæmilegt að slíkir tónskrattar spryttu fram þegar raddirnar hljómuðu saman. @owen lýsir því hvernig þetta var í raun og veru algengt og að þegar slíkir tónskrattar komu fram í fyrsta skipti sem lagið var sungið í kór þá hefðu söngvar þurft ræða málin sín á milli og bregðast við með því að setja for- eða úrfellingarmerki á viðeigandi nótu. Nótan B hafði til að mynda þessa sérstöðu á tímum Josquins og gátu söngvarar því átt von á því að þurfa syngja B annað hvort eins og það var skrifað eða sem H (B með úrfellingu), allt eftir tónlistarlegu samhengi. @owen vitnar í tónfræðinginn Pietro Aaron (um 1485-1545) þessu til stuðnings sem á að hafa sagt (upprunaleg ensk þýðing kemur frá @Bent): ,,Now it will be considered whether the singer should or indeed recognize at the first attempt the intent and secret of a composer, when singing a song he has not seen be before. The answer is no ... For this reason I say that those who do not indicate the sign of b molle where it might naturally appear to be otherwise, commit no little error, because an intention retained in the mind accomplishes nothing.´´ Af þessari samtímaheimild að dæma er ljóst að áðurgreindar óvæntu uppákomur á söngæfingum hlutu að vera víðtæk venja. Í greiningu @owen á *Inviolata* hans Josquins kemur fram að þegar raddirnar eru skoðaðar hlið við hlið þá megi færa rök fyrir því að viðlíka uppákomur hljóti að hafi átt sér stað á nokkrum stöðum. Hann gengur meira að segja svo langt að segja að á a.m.k. einum stað í sekvensinum hljóti Josquin hreinlega að hafa beinlínis verið að gera söngvurunum grikk. Við skulum nú skoða þennan stað betur og setja hann í samhengi við merkingu textans sem við ræddum um hér á undan.
+
+```{r}
+
+```
+
+```{r, out.width="0.3\\linewidth", include=TRUE, fig.align="center", fig.cap=c("your caption"), echo=FALSE}
+knitr::include_graphics("./img/example-dolcisona.pdf")
+```
+
+
+
+TÓNSKRATTI
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3hGgBC7aNso" frameborder="0" allowfullscreen></iframe>
 
