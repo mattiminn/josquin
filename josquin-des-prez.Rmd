@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oJFRbU_YsBo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Í framhaldinu verður ævi Josquins des Prez gerð stutt skil og síðan verður fjallað um texta og tónlist sekvensins *Inviolata*.
+Í framhaldinu verður ævi Josquins des Prez gerð stutt skil og síðan verður fjallað um texta og tónlist mótettunnar *Inviolata*.
 
 ## Hver var Josquin des Prez?
 
