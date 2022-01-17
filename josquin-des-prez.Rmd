@@ -1,5 +1,5 @@
 ---
-title: "Josquin og Inviolata"
+title: "Inviolata Josquins Des Prez"
 author: "Matthías Kormáksson"
 date: "18. janúar 2022"
 output: 
@@ -14,18 +14,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Inngangur
 
+,,Óflekkuð, heil og skírlíf ert þú, María´´. Svo hljóðar íslensk þýðing á titli latneska Maríusekvensins: *Inviolata, integra et casta es Maria*. Bæði @arni1 (hér eftir ÁHIsaga) og @arni2 (hér eftir ÁHIgripla) fjalla um þennan sekvens en hann á upphaf sitt í frönskum messusöng á 11. öld. Sekvens þessi mun hafa náð töluverðum vinsældum á endurreisnartímanum og sömdu fjölmörg tónskáld um hann tónverk. Þar á meðal var eitt frægasta tónskáld endurreisnartímabilsins Josquin Des Prez sem samdi þriggja parta mótettu við sekvensinn. Samkvæmt ÁHIsaga var *Inviolata* eitt dáðasta verk Josquins alla 16. öldina og það kemur svo sem ekki á óvart því tónverkið er einstaklega fallegur og ljúfur lofsöngur til Maríu. Áður en við höldum lengra skulum við hlýða á lokakafla mótettunnar í hugljúfri útsetningu fyrir kontratenór (Carlos Mena) og harmoniku (Iñaki Alberdi): 
+
+<div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oJFRbU_YsBo" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Æviágrip og tónlist Josquins des Prez
 
-Josquin Des Prez (um 1450-1521) var eitt virtasta tónskáld fransk-flæmska skóla endurreisnartímabilsins. @arni1 (hér eftir ÁHIsaga) gerir ævi þessa tónskálds góð skil (bls. 100-106) en almenn vitneskja um ævistarf hans er þó ekki vel skráð. Hann er talinn hafa fæðst í Saint-Quentin í Frakklandi og starfaði við hirð Renés hertoga í Aix-en-Provence um 1475-80 áður en hann flutti til Ítalíu. Þar starfaði Josquin fyrir Ascanio Sforza kardinála í Mílanó og Róm og á árunum 1489-94 varð hann svo þess heiðurs aðnjótandi að syngja í kór Sixtínsku kapellunnar í Róm. Árið 1502 var hann ráðinn sem tónskáld við hirð hertogans Ercole I d'Este í Ferrara. Þá hafði hann þegar öðlast frægð og var af mörgum talinn besta tónskáld álfunnar. Það var á endanum megin ástæða þess að hertoginn í Ferrara kaus Josquin fram yfir tónskáldið Heinrich Isaac sem einnig kom til greina fyrir stöðuna þrátt fyrir að Josquin væri talinn dyntóttur og dýr í rekstri. Að loknu starfi sínu á Ítalíu flutti Josquin aftur til Frakklands þar sem hann starfaði við Maríukirkjuna í Condé-sur-l'Escaut til æviloka.
+Josquin Des Prez (um 1450-1521) var eitt virtasta tónskáld fransk-flæmska skóla endurreisnartímabilsins. @arni1 (hér eftir ÁHIsaga) gerir ævi þessa tónskálds góð skil (bls. 100-106) en almenn vitneskja um ævistarf hans er þó ekki vel skráð. Hann er talinn hafa fæðst í Saint-Quentin í Frakklandi og starfaði við hirð Renés hertoga í Aix-en-Provence um 1475-80 áður en hann flutti til Ítalíu. Þar starfaði Josquin fyrir Ascanio Sforza kardinála í Mílanó og Róm og á árunum 1489-94 varð hann svo þess heiðurs aðnjótandi að syngja í kór Sixtínsku kapellunnar í Róm. Árið 1502 var hann ráðinn sem tónskáld við hirð hertogans Ercole I d'Este í Ferrara. Þá hafði hann þegar öðlast frægð og var af mörgum talinn besta tónskáld álfunnar. Það var á endanum megin ástæða þess að hertoginn kaus Josquin fram yfir tónskáldið Heinrich Isaac sem einnig kom til greina fyrir stöðuna þrátt fyrir að Josquin væri talinn dýr í rekstri og sagður semja þegar honum hentaði. Að loknu starfi sínu á Ítalíu flutti Josquin aftur til Frakklands þar sem hann starfaði við Maríukirkjuna í Condé-sur-l'Escaut til æviloka.
 
-Ljóst er að Josquin hefur verið afburða tónskáld og frægur því enginn annar en Marteinn Lúther kallaði hann meistara tónanna (ÁHIsaga). Á meðal frægustu verka Josquins má nefna mótettuna *Ave Maria ... Virgo Serena* sem tónlistarfræðingur nokkur hefur kallað ,,Mónu Lísu endurreisnartónlistarinnar´´ (ÁHIsaga). 
+Ljóst er að Josquin hefur verið afburða tónskáld og með tilkomu prentlistarinnar og nótnaútgáfu öðlaðist hann frægð umfram það sem áður þekktist. Einkenni tónlistar Josquins var (oft tæknilega flóknir) hermipunktar sem ná til allra radda en á sama tíma tilfinningarík túlkun undirliggjandi texta í tónum. Enginn annar en Marteinn Lúther sagði að hann væri ,,meistari tónanna; þeir urðu að haga sér eins og hann kaus en önnur tónskáld verða að gera eins og nóturnar vilja´´ og eftir dauða hans byggðu ekki ómerkari tónskáld en Lassus og sjálfur Palestrina verk á tónsmíðum hans (ÁHIsaga). Josquin var sömuleiðis tiltölulega afkastamikið tónskáld og er talinn hafa samið um 60 mótettur. Á meðal þeirra frægustu má nefna *Ave Maria ... Virgo Serena* sem tónlistarfræðingur nokkur hefur kallað ,,Mónu Lísu endurreisnartónlistarinnar,´´ (ÁHIsaga) og *Inviolata, integra et casta es Maria* sem verður fjallað ítarlegar um hér að neðan. Sömuleiðis er vert að minnast á mótettuna *Nymphes des bois* en Josquin samdi hana við tregróf Jean Molinet, ort eftir andlát tónskáldsins Ockeghems sem líklega hefur verið áhrifavaldur í lífi Josquins (ÁHIsaga). Að lokum má nefna önnur tónverk sem vert er að hlusta á eins og *Missa pange lingua*, *Missa L'homme armé super voces musicales* og *Mille regretz*.
 
 
 ## Inviolata, integra et casta es Maria
-
-Óflekkuð, heil og skírlíf ert þú, María. Svo hljóðar íslensk þýðing á titli latneska Maríusekvensins: Inviolata, integra et casta es Maria. Bæði @arni1 (hér eftir ÁHIsaga) og @arni2 (hér eftir ÁHIb) fjalla um þennan sekvens og tilgreinir ÁHIa að hann eigi upphaf sitt í frönskum messusöng á 11. öld. Sekvens þessi mun hafa náð töluverðum vinsældum á endurreisnartímanum og sömdu fjölmörg tónskáld um hann tónverk (ÁHIa). ÁHIb gengur meira að segja svo langt að segja að Inviolata hafi verið eitt dáðasta verk Josquins alla 16. öldina.   @arni2. .
 
 ### Textinn
 
@@ -106,7 +108,7 @@ Dæmi 1 er fengið beint upp úr @owen og sýnir takta 85-94 sem eru að finna u
 
 ## Lokaorð
 
-Í myndbandinu hér fyrir neðan má finna flutning fimm radda kórs á mótettunni í heild. [Hér](https://josquin.stanford.edu/cgi-bin/jrp?a=notationWithEditWithText&f=Jos2404) má svo finna nótur til að lesa með úr útgáfu Josquin-rannsóknarverkfnisins í Stanford háskóla.
+Hver svo sem ásetningur Josquins var við gerð mótettunnar *Inviolata* þá er ljóst að útkoman (eftir aðlaganir og úrfellingarmerki) var einfaldlega stórkostleg. Mótettan er tæknilega  margslungin samanber eltingaleik keðjusöngsins og á sama tíma svo hugljúf og falleg. Við greiningu tónlistar og texta tónskáldsins er ljóst að töluverða vinna hefur farið í að túlka textann með viðeigandi blæbrigðum í tónum (eða gera söngvurum verka sinna grikk). Þetta er áminning um mikilvægi þess að leggja metnað í að þýða undirliggjandi latneska texta rétt, því tónlist Josquins var samin beinlínis með það að markmiði að túlka orð undirliggjandi texta. Við ljúkum umfjölluninni hér á því að hlýða á mótettuna í heild sinni. Í myndbandinu hér fyrir neðan heyrum við flutning fimm radda kórs sem kallar sig Stile Antico. [Hér](https://josquin.stanford.edu/cgi-bin/jrp?a=notationWithEditWithText&f=Jos2404) má svo finna nótur til að lesa með úr útgáfu Josquin-rannsóknarverkfnisins í Stanford háskóla. Vert er að fylgjast með keðjusöng tenóranna tveggja og fylgjast með ómblíðum hljóminum sem heyrist undir latnesku orðunum dolcisona.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3hGgBC7aNso" frameborder="0" allowfullscreen></iframe>
 
